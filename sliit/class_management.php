@@ -115,7 +115,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
                             <label>Description:</label>
                             <textarea class="form-control" rows="15" name="content"></textarea>
 
-                            <label>Upload Picture</label>
+                            <label>Upload PDF</label>
                             <input type="file" class="form-control" name="file" id="file">
                             `                              <br>
                             <button type="submit" name="submit" class="btn btn-primary">Submit</button>
